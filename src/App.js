@@ -13,9 +13,15 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>
+          This is a new paragraph
+        </p>
       </div>
     );
   }
 }
+
+//This is a single line commit
+//new changes are going to be added here.
 
 export default App;
