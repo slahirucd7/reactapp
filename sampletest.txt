@@ -6,6 +6,11 @@ This is another stash line.
 This is stash line 2.
 
 
+<<<<<<< Updated upstream
 
 
 This is after the stash line.
+=======
+Thisssss isssss a stashhhhh line
+
+>>>>>>> Stashed changes
