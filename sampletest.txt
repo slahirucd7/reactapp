@@ -1,1 +1,4 @@
-This is a sample test document.
+This is a sample test document // edited line.
+
+
+After this line I am  going to stash this line using stash command.
