@@ -6,3 +6,6 @@ This is another stash line.
 This is stash line 2.
 
 
+
+
+This is after the stash line.
