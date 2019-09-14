@@ -14,3 +14,6 @@ This is after the stash line.
 Thisssss isssss a stashhhhh line
 
 >>>>>>> Stashed changes
+
+
+This code is in the sample_renamed_branch
